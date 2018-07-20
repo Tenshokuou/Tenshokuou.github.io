@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>転職王</title>
+    <link>https://Tenshokuou.github.io/categories/</link>
+    <description>Recent content on 転職王</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 19 Jul 2018 14:29:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://Tenshokuou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New My Post</title>
+      <link>https://Tenshokuou.github.io/posts/new-my-post/</link>
+      <pubDate>Thu, 19 Jul 2018 14:29:07 +0900</pubDate>
+      
+      <guid>https://Tenshokuou.github.io/posts/new-my-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Tenshokuou.github.io/about/</link>
+      <pubDate>Mon, 02 Jul 2018 09:52:17 +0900</pubDate>
+      
+      <guid>https://Tenshokuou.github.io/about/</guid>
+      <description>就職氷河期、リーマン・ショックの影響をモロに受ける。
+時流と共に求められる技術を身につけなんとか生きてきたロスジェネ世代。
+その結果、図らずも転職回数が5回以上のジョブホッパーとなり、この経験が誰かの役に立てれば良いと本ブログを作成。
+現在も時にフリー時には企業人と雇用形態に囚われ無い働き方を模索中。
+そして何より大事にしているのは仕事に対しての真摯さ。
+フリーランスであれ企業人であれ、これを忘れた時に人はきっとダメになる。
+職歴（概略）  外資系ゲーム会社株式会社でWebエンジニア デザイン事務所でWebエンジニア 大手Web制作会社でWebエンジニア 中堅Web制作会社でWebエンジニア 大手IT企業でゲームエンジニア 大手IT企業ゲームプラットフォームでゲームエンジニア  お問い合わせ 転職王(本BLOG)へのお問い合わせはこちらまでお願い致します。</description>
+    </item>
+    
+  </channel>
+</rss>

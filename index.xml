@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>転職王</title>
+    <link>https://Tenshokuou.github.io/</link>
+    <description>Recent content on 転職王</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 19 Jul 2018 14:29:07 +0900</lastBuildDate>
+    
+	<atom:link href="https://Tenshokuou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New My Post</title>
+      <link>https://Tenshokuou.github.io/posts/new-my-post/</link>
+      <pubDate>Thu, 19 Jul 2018 14:29:07 +0900</pubDate>
+      
+      <guid>https://Tenshokuou.github.io/posts/new-my-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
